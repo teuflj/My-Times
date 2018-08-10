@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  position: fixed;
+  z-index: 999;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+#aqua {
+  color: MediumAquamarine;
+}
